@@ -1,0 +1,3 @@
+(library
+ (name ocaramel)
+ (libraries core))
